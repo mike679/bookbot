@@ -1,3 +1,3 @@
 # bookbot
 
-A quantiitave report on books!
+A quantitative report on books!
